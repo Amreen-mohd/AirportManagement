@@ -215,6 +215,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Content\Admin\StyleSheet1.less" />
     <Content Include="Content\Manager\StyleSheet1.less" />
+    <None Include="Properties\PublishProfiles\airportclientapp - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\AirportManagement20231116135942 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
